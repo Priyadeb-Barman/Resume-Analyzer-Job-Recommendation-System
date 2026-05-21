@@ -119,6 +119,6 @@ ai-resume-analyzer/
 
 ##  Author
 **Your Name**
-- LinkedIn: [Priyadeb Barman](https://linkedin.com/in/yourprofile)
-- Github: [Priyadeb-Barman](https://yourportfolio.com)
+- LinkedIn: [Priyadeb Barman](linkedin.com/in/priyadeb-barman-6893a72a8)
+- Github: [Priyadeb-Barman](https://github.com/Priyadeb-Barman)
 - Email: mr.priyadeb@gmail.com
