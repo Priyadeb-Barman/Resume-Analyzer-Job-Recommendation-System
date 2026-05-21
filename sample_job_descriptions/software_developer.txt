@@ -1,0 +1,15 @@
+Software Developer
+We are looking for a Software Developer to build and implement functional programs. You will work with other Developers and Product Managers throughout the software development life cycle.
+Responsibilities:
+- Produce clean, efficient code based on specifications.
+- Integrate software components and third-party programs.
+- Verify and deploy programs and systems (Docker, CI/CD).
+- Troubleshoot, debug and upgrade existing software.
+- Recommend and execute improvements.
+Requirements:
+- Proven experience as a Software Developer, Software Engineer or similar role.
+- Familiarity with Agile development methodologies.
+- Experience with software design and development in a test-driven environment.
+- Knowledge of coding languages (e.g. C++, Java, JavaScript, Python) and frameworks/systems (e.g. AngularJS, Git, FastAPI).
+- Experience with databases and Object-Relational Mapping (ORM) frameworks.
+- Resourcefulness and troubleshooting aptitude.

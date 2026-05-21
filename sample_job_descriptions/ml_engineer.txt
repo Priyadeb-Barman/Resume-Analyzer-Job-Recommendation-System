@@ -1,0 +1,13 @@
+Machine Learning Engineer
+We are looking for a Machine Learning Engineer to join our team. The ideal candidate will have strong programming skills in Python and experience with machine learning libraries such as scikit-learn, TensorFlow, or PyTorch. You will be responsible for developing, deploying, and maintaining machine learning models.
+Responsibilities:
+- Design and implement machine learning models and algorithms.
+- Preprocess and analyze large datasets using pandas and numpy.
+- Deploy models to production environments using Docker and FastAPI.
+- Collaborate with data scientists and software engineers.
+Requirements:
+- Bachelor's degree in Computer Science, Data Science, or related field.
+- Proficiency in Python programming.
+- Experience with NLP techniques (NLTK, spaCy) is a plus.
+- Familiarity with version control (Git, GitHub).
+- Knowledge of cloud platforms (AWS, GCP) is beneficial.

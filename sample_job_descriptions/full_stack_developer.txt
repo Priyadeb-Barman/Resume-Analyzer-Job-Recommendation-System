@@ -1,0 +1,16 @@
+Full Stack Developer
+We are seeking a talented Full Stack Developer to produce scalable software solutions. You will be part of a cross-functional team responsible for the full software development life cycle, from conception to deployment.
+Responsibilities:
+- Develop front-end website architecture using modern JavaScript frameworks such as React, Angular, or Vue.
+- Design and develop APIs using Node.js, Express, or Python frameworks.
+- Build responsive UI components with HTML, CSS, and JavaScript/TypeScript.
+- Create and manage databases using MongoDB, PostgreSQL, or MySQL.
+- Implement security and data protection measures.
+- Write technical documentation and ensure high-quality code through testing.
+Requirements:
+- Proficiency in JavaScript, TypeScript, HTML, and CSS.
+- Experience with front-end frameworks (React, Angular, or Vue).
+- Experience with backend technologies (Node.js, Express, Python, Django, or Flask).
+- Familiarity with database technology (SQL, MongoDB).
+- Experience with version control tools (Git) and containerization (Docker).
+- Strong problem-solving skills and attention to detail.

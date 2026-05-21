@@ -1,0 +1,13 @@
+Data Analyst
+We are seeking a detail-oriented Data Analyst to join our team. The successful candidate will turn data into information, information into insight and insight into business decisions.
+Responsibilities:
+- Interpret data, analyze results using statistical techniques and provide ongoing reports.
+- Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+- Acquire data from primary or secondary data sources and maintain databases/data systems.
+- Identify, analyze, and interpret trends or patterns in complex data sets using pandas and numpy.
+Requirements:
+- Proven working experience as a Data Analyst or Business Data Analyst.
+- Technical expertise regarding data models, database design development, data mining and segmentation techniques.
+- Strong knowledge of and experience with reporting packages (Business Objects etc), databases (SQL etc), programming (Python or R).
+- Knowledge of statistics and experience using statistical packages for analyzing datasets.
+- Experience with data visualization tools like Tableau, PowerBI, or Plotly/Altair.

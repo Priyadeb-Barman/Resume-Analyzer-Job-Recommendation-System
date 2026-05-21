@@ -1,0 +1,16 @@
+Python Developer
+We are looking for a skilled Python Developer to join our growing engineering team. You will be responsible for writing reusable, testable, and efficient code using Python and related web frameworks.
+Responsibilities:
+- Design, build, and maintain efficient, reusable, and reliable Python code.
+- Develop RESTful APIs and backend services using Django, Flask, or FastAPI.
+- Integrate data storage solutions using SQL databases like PostgreSQL.
+- Write unit tests and integration tests for backend services.
+- Deploy and manage applications using Docker and CI/CD pipelines.
+- Collaborate with frontend developers and other team members.
+Requirements:
+- Strong proficiency in Python programming.
+- Experience with web frameworks such as Django, Flask, or FastAPI.
+- Familiarity with REST API design and development.
+- Knowledge of relational databases (PostgreSQL, MySQL) and ORM libraries.
+- Experience with Docker, Linux, and version control (Git).
+- Understanding of fundamental design principles behind scalable applications.
