@@ -1,4 +1,4 @@
-# AI Resume Analyzer & Job Recommendation System 
+# Resume Analyzer & Job Recommendation System 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688?logo=fastapi)
